@@ -1,0 +1,11 @@
+c:\users\optimus\documents\visual studio 2012\Projects\ayo_olopon\ayo_olopon\bin\Debug\ayo_olopon.exe.config
+c:\users\optimus\documents\visual studio 2012\Projects\ayo_olopon\ayo_olopon\bin\Debug\ayo_olopon.exe
+c:\users\optimus\documents\visual studio 2012\Projects\ayo_olopon\ayo_olopon\bin\Debug\ayo_olopon.pdb
+c:\users\optimus\documents\visual studio 2012\Projects\ayo_olopon\ayo_olopon\bin\Debug\ayo_olopon.xml
+c:\users\optimus\documents\visual studio 2012\Projects\ayo_olopon\ayo_olopon\obj\Debug\ayo_olopon.Resources.resources
+c:\users\optimus\documents\visual studio 2012\Projects\ayo_olopon\ayo_olopon\obj\Debug\ayo_olopon.vbproj.GenerateResource.Cache
+c:\users\optimus\documents\visual studio 2012\Projects\ayo_olopon\ayo_olopon\obj\Debug\ayo_olopon.exe
+c:\users\optimus\documents\visual studio 2012\Projects\ayo_olopon\ayo_olopon\obj\Debug\ayo_olopon.xml
+c:\users\optimus\documents\visual studio 2012\Projects\ayo_olopon\ayo_olopon\obj\Debug\ayo_olopon.pdb
+c:\users\optimus\documents\visual studio 2012\Projects\ayo_olopon\ayo_olopon\obj\Debug\ayo_olopon.frm_olopon.resources
+C:\Users\Optimus\documents\visual studio 2012\Projects\ayo_olopon\ayo_olopon\obj\Debug\ayo_olopon.frm_diagnosis.resources
